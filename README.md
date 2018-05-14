@@ -1,4 +1,4 @@
-# K-Means-Clustering
+# K-Means Clustering
 A computationally fast and efficient k-means algorithm based on BLAS-3 routines
 
 <p><strong>kmeans.py</strong>: Computes pairwise Euclidean distances between two sets of data points, implementing both a slow algorithm and a much faster algorithm based on BLAS-3 routines.</p>
